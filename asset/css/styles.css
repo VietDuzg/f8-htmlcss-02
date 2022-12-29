@@ -753,3 +753,8 @@ footer .row {
     text-align: center;
     color: #807D74;
 }
+
+.footer-menu-item li span {
+    font-weight: 600;
+    color: #ffffff
+}
